@@ -10,17 +10,17 @@ import generatePassword from 'generate-simple-password';
 
 ## Parameters:
 
-`length` - Length of the password. Default is set to `16`
+`length` - length of the password. Default is set to `16`
 
-`allowedChars` - Characters to choose from when generatign a password. Default
+`allowedChars` - characters to choose from when generatign a password. Default
 is set to `all uppercase and lowercase letters`
 
 `options` - `object`:
 
 - `addNumbers` - set `true` if you want password to contain numbers. Default is
-  set to `false`
+  `false`
 - `addSpecialChars` - set `true` if you want password to contain special
-  characters. Default is set to `false`
+  characters. Default is `false`
 
 ## Contributing
 
