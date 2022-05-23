@@ -1,0 +1,14 @@
+{
+  "name": "generate-simple-password",
+  "version": "0.0.4",
+  "description": "Package that lets you generating passwords",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "password",
+    "generating"
+  ],
+  "author": "Oleh Hnatkovskyi",
+  "license": "ISC"
+}
