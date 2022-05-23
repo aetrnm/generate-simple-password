@@ -4,6 +4,14 @@
 
 ```js
 import generatePassword from 'generate-simple-password';
+
+const password = generatePassword({
+  addUppercase: true,
+  addLowercase: true,
+  addSpecialChars: true,
+});
+
+console.log(password); // ^fBN{y{&'poi;xfM
 ```
 
 ---
