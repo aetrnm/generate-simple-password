@@ -1,6 +1,6 @@
 {
   "name": "generate-simple-password",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "Package that lets you generating passwords",
   "type": "module",
   "main": "dist/index.js",
@@ -10,5 +10,6 @@
     "generating"
   ],
   "author": "Oleh Hnatkovskyi",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": "git://github.com/aetrnm/generate-simple-password"
 }
