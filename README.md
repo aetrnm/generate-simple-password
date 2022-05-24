@@ -1,9 +1,9 @@
 # Generate simple passwords with 1 function
 
-## Example Usage:
+## Examples Usage:
 
 ```js
-import generatePassword from 'generate-simple-password';
+import generatePassword from "generate-simple-password";
 
 const password = generatePassword({
   addUppercase: true,
@@ -12,6 +12,16 @@ const password = generatePassword({
 });
 
 console.log(password); // ^fBN{y{&'poi;xfM
+```
+
+```js
+import generatePassword from "generate-simple-password";
+
+const password = generatePassword({
+  customChars: "123ABC",
+});
+
+console.log(password); // 2BC311B3111A3A12
 ```
 
 ---
