@@ -1,13 +1,13 @@
 {
   "name": "generate-simple-password",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "description": "Package that lets you generating passwords",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
     "password",
-    "generating"
+    "generator"
   ],
   "author": "Oleh Hnatkovskyi",
   "license": "MIT",
