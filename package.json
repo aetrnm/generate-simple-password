@@ -5,11 +5,11 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "author": "Oleh Hnatkovskyi",
+  "license": "MIT",
+  "repository": "git://github.com/aetrnm/generate-simple-password"
   "keywords": [
     "password",
     "generator"
   ],
-  "author": "Oleh Hnatkovskyi",
-  "license": "MIT",
-  "repository": "git://github.com/aetrnm/generate-simple-password"
 }
