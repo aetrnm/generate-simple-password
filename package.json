@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "author": "Oleh Hnatkovskyi",
   "license": "MIT",
-  "repository": "git://github.com/aetrnm/generate-simple-password"
+  "repository": "git://github.com/aetrnm/generate-simple-password",
   "keywords": [
     "password",
     "generator"
