@@ -1,6 +1,6 @@
 {
   "name": "generate-simple-password",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Package that lets you generating passwords",
   "type": "module",
   "main": "dist/index.js",
@@ -11,5 +11,5 @@
   "keywords": [
     "password",
     "generator"
-  ],
+  ]
 }
